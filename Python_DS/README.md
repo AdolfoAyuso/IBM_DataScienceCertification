@@ -1,1 +1,2 @@
-Fourth course in the certification, first to use actual programming.
+Fourth course in the certification, named "Python for Data Science, AI and Development".
+First to use actual programming.
